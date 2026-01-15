@@ -130,3 +130,4 @@ This process not only improved data accuracy but also provided management with a
 performance drivers, and customer contributions, thereby supporting informed business decision-making.
 
 
+<img width="2003" height="1220" alt="image" src="https://github.com/user-attachments/assets/37a4d6b2-ee06-4043-9df1-8fb657c01421" />
